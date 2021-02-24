@@ -1,6 +1,9 @@
 # NMT-Model-using-LSTM
 An NMT (Neural Machine Translation) Model from scratch using a small dataset of 25000 word-pair phrases.
 
+Example Predictions:
+
+![image](https://user-images.githubusercontent.com/12728442/108961101-e1311c80-769c-11eb-868e-be4821f9c34e.png)
 
 
 
