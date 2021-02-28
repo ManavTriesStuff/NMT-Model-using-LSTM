@@ -17,3 +17,5 @@ I took a bigger initial dataset than he did and tried to add a few more intermed
 It ended up having a better accuracy than the tutorial model at the end of 30 epochs of training.
 
 -------------------------------------------------------
+
+.
